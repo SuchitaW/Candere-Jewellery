@@ -1,0 +1,87 @@
+2023-Dec-27 10:40:11 am [main] INFO  core.WebDriverFactory - Chrome browser invoked
+2023-Dec-27 10:40:11 am [main] INFO  core.WebDriverFactory - browser window maximized and set timeout is 20 second
+2023-Dec-27 10:40:16 am [main] INFO  core.WebDriverFactory - navigate to url
+2023-Dec-27 10:40:16 am [main] INFO  StepDefination.HomeStepDef - User is on landing page after navigating to base URL
+2023-Dec-27 10:40:16 am [main] INFO  PageObjects.HomePageObjects - validate current URL of page ,so URL is: https://www.candere.com/
+2023-Dec-27 10:40:16 am [main] INFO  core.WebDriverFactory - Quit the browser
+2023-Dec-27 10:40:17 am [main] INFO  core.WebDriverFactory - Chrome browser invoked
+2023-Dec-27 10:40:17 am [main] INFO  core.WebDriverFactory - browser window maximized and set timeout is 20 second
+2023-Dec-27 10:40:22 am [main] INFO  core.WebDriverFactory - navigate to url
+2023-Dec-27 10:40:22 am [main] INFO  PageObjects.SignUpPageObject - Click on the User Icon
+2023-Dec-27 10:40:23 am [main] INFO  PageObjects.SignUpPageObject - Click on the signUp Button
+2023-Dec-27 10:40:23 am [main] INFO  StepDefination.HomeStepDef - Otp send successful
+2023-Dec-27 10:41:05 am [main] INFO  core.WebDriverFactory - Quit the browser
+2023-Dec-27 10:41:05 am [main] INFO  core.WebDriverFactory - Chrome browser invoked
+2023-Dec-27 10:41:06 am [main] INFO  core.WebDriverFactory - browser window maximized and set timeout is 20 second
+2023-Dec-27 10:41:10 am [main] INFO  core.WebDriverFactory - navigate to url
+2023-Dec-27 10:41:11 am [main] INFO  PageObjects.SignUpPageObject - Click on the User Icon
+2023-Dec-27 10:41:11 am [main] INFO  PageObjects.SignUpPageObject - Click on the logIn Button
+2023-Dec-27 10:41:52 am [main] INFO  core.WebDriverFactory - Quit the browser
+2023-Dec-27 10:41:53 am [main] INFO  core.WebDriverFactory - Chrome browser invoked
+2023-Dec-27 10:41:53 am [main] INFO  core.WebDriverFactory - browser window maximized and set timeout is 20 second
+2023-Dec-27 10:42:00 am [main] INFO  core.WebDriverFactory - navigate to url
+2023-Dec-27 10:42:00 am [main] INFO  PageObjects.SignUpPageObject - Click on the User Icon
+2023-Dec-27 10:42:00 am [main] INFO  PageObjects.SignUpPageObject - Click on the logIn Button
+2023-Dec-27 10:42:41 am [main] INFO  core.WebDriverFactory - Quit the browser
+2023-Dec-27 10:42:42 am [main] INFO  core.WebDriverFactory - Chrome browser invoked
+2023-Dec-27 10:42:42 am [main] INFO  core.WebDriverFactory - browser window maximized and set timeout is 20 second
+2023-Dec-27 10:42:47 am [main] INFO  core.WebDriverFactory - navigate to url
+2023-Dec-27 10:42:47 am [main] INFO  PageObjects.SignUpPageObject - Click on the User Icon
+2023-Dec-27 10:42:48 am [main] INFO  PageObjects.SignUpPageObject - Click on the logIn Button
+2023-Dec-27 10:42:48 am [main] INFO  PageObjects.SignUpPageObject - Click on the LogInUsingGoogle Button
+2023-Dec-27 10:42:50 am [main] INFO  PageObjects.SignUpPageObject - Click on the Next Button
+2023-Dec-27 10:43:03 am [main] INFO  core.WebDriverFactory - Quit the browser
+2023-Dec-27 10:43:04 am [main] INFO  core.WebDriverFactory - Chrome browser invoked
+2023-Dec-27 10:43:04 am [main] INFO  core.WebDriverFactory - browser window maximized and set timeout is 20 second
+2023-Dec-27 10:43:11 am [main] INFO  core.WebDriverFactory - navigate to url
+2023-Dec-27 10:43:11 am [main] INFO  PageObjects.HomePageObjects - Sent the keys to search box as -> EARRINGS
+2023-Dec-27 10:43:15 am [main] INFO  PageObjects.HomePageObjects - Clicked on search button
+2023-Dec-27 10:43:17 am [main] INFO  StepDefination.HomeStepDef - Product description page is display
+2023-Dec-27 10:43:19 am [main] INFO  StepDefination.HomeStepDef - Add to cart button is displayed
+2023-Dec-27 10:43:26 am [main] INFO  StepDefination.HomeStepDef - Checkout Securely button is displayed
+2023-Dec-27 10:43:27 am [main] INFO  StepDefination.HomeStepDef - Otp send successful
+2023-Dec-27 10:44:08 am [main] INFO  core.WebDriverFactory - Quit the browser
+2023-Dec-27 10:44:08 am [main] INFO  core.WebDriverFactory - Chrome browser invoked
+2023-Dec-27 10:44:09 am [main] INFO  core.WebDriverFactory - browser window maximized and set timeout is 20 second
+2023-Dec-27 10:44:16 am [main] INFO  core.WebDriverFactory - navigate to url
+2023-Dec-27 10:44:17 am [main] INFO  PageObjects.HomePageObjects - Sent the keys to search box as -> RINGS
+2023-Dec-27 10:44:20 am [main] INFO  PageObjects.HomePageObjects - Clicked on search button
+2023-Dec-27 10:44:22 am [main] INFO  StepDefination.HomeStepDef - Product description page is display
+2023-Dec-27 10:44:24 am [main] INFO  StepDefination.HomeStepDef - Add to cart button is displayed
+2023-Dec-27 10:44:31 am [main] INFO  StepDefination.HomeStepDef - Checkout Securely button is displayed
+2023-Dec-27 10:45:12 am [main] INFO  core.WebDriverFactory - Quit the browser
+2023-Dec-27 10:45:13 am [main] INFO  core.WebDriverFactory - Chrome browser invoked
+2023-Dec-27 10:45:13 am [main] INFO  core.WebDriverFactory - browser window maximized and set timeout is 20 second
+2023-Dec-27 10:45:19 am [main] INFO  core.WebDriverFactory - navigate to url
+2023-Dec-27 10:45:19 am [main] INFO  PageObjects.HomePageObjects - Sent the keys to search box as -> Earring
+2023-Dec-27 10:45:23 am [main] INFO  PageObjects.HomePageObjects - Clicked on search button
+2023-Dec-27 10:45:25 am [main] INFO  StepDefination.HomeStepDef - Product description page is display
+2023-Dec-27 10:45:27 am [main] INFO  StepDefination.HomeStepDef - Add to cart button is displayed
+2023-Dec-27 10:45:34 am [main] INFO  StepDefination.HomeStepDef - Checkout Securely button is displayed
+2023-Dec-27 10:46:15 am [main] INFO  core.WebDriverFactory - Quit the browser
+2023-Dec-27 10:46:16 am [main] INFO  core.WebDriverFactory - Chrome browser invoked
+2023-Dec-27 10:46:16 am [main] INFO  core.WebDriverFactory - browser window maximized and set timeout is 20 second
+2023-Dec-27 10:46:44 am [main] INFO  core.WebDriverFactory - navigate to url
+2023-Dec-27 10:46:44 am [main] INFO  PageObjects.HomePageObjects - Sent the keys to search box as -> Earrings
+2023-Dec-27 10:46:47 am [main] INFO  PageObjects.HomePageObjects - Clicked on search button
+2023-Dec-27 10:46:52 am [main] INFO  PageObjects.CartPageObjects - Clicked on First product link
+2023-Dec-27 10:46:52 am [main] INFO  PageObjects.CartPageObjects - driver is switched back to prodDescp window
+2023-Dec-27 10:46:55 am [main] INFO  PageObjects.ProdductDescPageObjects - Add to cart button is displayed
+2023-Dec-27 10:47:08 am [main] INFO  PageObjects.CartPageObjects - Clicked on continue shopping button
+2023-Dec-27 10:47:08 am [main] INFO  PageObjects.HomePageObjects - Sent the keys to search box as -> Rings
+2023-Dec-27 10:47:11 am [main] INFO  PageObjects.HomePageObjects - Clicked on search button
+2023-Dec-27 10:47:14 am [main] INFO  PageObjects.CartPageObjects - Clicked on First product link
+2023-Dec-27 10:47:14 am [main] INFO  PageObjects.CartPageObjects - driver is switched back to prodDescp window
+2023-Dec-27 10:47:17 am [main] INFO  PageObjects.ProdductDescPageObjects - Add to cart button is displayed
+2023-Dec-27 10:47:26 am [main] INFO  StepDefination.HomeStepDef - Checkout Securely button is displayed
+2023-Dec-27 10:47:27 am [main] INFO  PageObjects.SignUpPageObject - Click on the LogInUsingGoogle Button
+2023-Dec-27 10:47:29 am [main] INFO  PageObjects.SignUpPageObject - Click on the Next Button
+2023-Dec-27 10:47:59 am [main] INFO  PageObjects.PaymentPageObjects - Click on EDIT ORDER
+2023-Dec-27 10:48:01 am [main] INFO  core.WebDriverFactory - Quit the browser
+2023-Dec-27 10:48:02 am [main] INFO  core.WebDriverFactory - Chrome browser invoked
+2023-Dec-27 10:48:02 am [main] INFO  core.WebDriverFactory - browser window maximized and set timeout is 20 second
+2023-Dec-27 10:48:09 am [main] INFO  core.WebDriverFactory - navigate to url
+2023-Dec-27 10:48:09 am [main] INFO  PageObjects.SignUpPageObject - Click on the User Icon
+2023-Dec-27 10:48:10 am [main] INFO  PageObjects.SignUpPageObject - Click on the signUp Button
+2023-Dec-27 10:48:10 am [main] INFO  StepDefination.HomeStepDef - Otp send successful
+2023-Dec-27 10:48:51 am [main] INFO  core.WebDriverFactory - Quit the browser
